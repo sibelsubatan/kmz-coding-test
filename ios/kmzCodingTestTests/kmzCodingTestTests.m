@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface akilliTicaretCaseTests : XCTestCase
+@interface kmzCodingTestTests : XCTestCase
 
 @end
 
-@implementation akilliTicaretCaseTests
+@implementation kmzCodingTestTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {

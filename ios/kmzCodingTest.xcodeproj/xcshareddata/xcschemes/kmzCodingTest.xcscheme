@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "akilliTicaretCase.app"
-               BlueprintName = "akilliTicaretCase"
-               ReferencedContainer = "container:akilliTicaretCase.xcodeproj">
+               BuildableName = "kmzCodingTest.app"
+               BlueprintName = "kmzCodingTest"
+               ReferencedContainer = "container:kmzCodingTest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "akilliTicaretCaseTests.xctest"
-               BlueprintName = "akilliTicaretCaseTests"
-               ReferencedContainer = "container:akilliTicaretCase.xcodeproj">
+               BuildableName = "kmzCodingTestTests.xctest"
+               BlueprintName = "kmzCodingTestTests"
+               ReferencedContainer = "container:kmzCodingTest.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "akilliTicaretCase.app"
-            BlueprintName = "akilliTicaretCase"
-            ReferencedContainer = "container:akilliTicaretCase.xcodeproj">
+            BuildableName = "kmzCodingTest.app"
+            BlueprintName = "kmzCodingTest"
+            ReferencedContainer = "container:kmzCodingTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "akilliTicaretCase.app"
-            BlueprintName = "akilliTicaretCase"
-            ReferencedContainer = "container:akilliTicaretCase.xcodeproj">
+            BuildableName = "kmzCodingTest.app"
+            BlueprintName = "kmzCodingTest"
+            ReferencedContainer = "container:kmzCodingTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
