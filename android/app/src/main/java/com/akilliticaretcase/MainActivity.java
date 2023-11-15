@@ -1,4 +1,4 @@
-package com.akilliticaretcase;
+package com.kmzcodingtest;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

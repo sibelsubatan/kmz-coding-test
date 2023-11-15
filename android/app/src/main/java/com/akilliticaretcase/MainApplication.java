@@ -1,4 +1,4 @@
-package com.akilliticaretcase;
+package com.kmzcodingtest;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

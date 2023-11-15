@@ -2,9 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:kmzCodingTest.xcodeproj">
+      location = "group:kmzcodingtest.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:kmzCodingTest.xcodeproj">
    </FileRef>
 </Workspace>

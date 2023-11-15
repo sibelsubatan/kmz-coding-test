@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.akilliticaretcase"
+    namespace "com.kmzcodingtest"
     defaultConfig {
-        applicationId "com.akilliticaretcase"
+        applicationId "com.kmzcodingtest"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
